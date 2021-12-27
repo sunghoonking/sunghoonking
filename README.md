@@ -1,6 +1,10 @@
-# Hi, Hello😄
+# Hi, Hello😄 
+# Thank you for coming to my Git Hub. Let's go on a trip🧑‍✈️
 
-## _Sung Hoon Kim_
+
+
+
+
 
 
 <!--
