@@ -1,5 +1,5 @@
 # Hi, Hello😄 
-# Thank you for coming to my Git Hub. Let's go on a trip🧑‍✈️
+# Thank you for coming to my Git Hub.🧑‍✈️
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sunghoonking)
 
